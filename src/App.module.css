@@ -1,0 +1,6 @@
+.wrap {
+  margin: 0 auto;
+  width: 800px;
+  min-height: 92vh;
+  border: 1px solid #e3e1e1;
+}

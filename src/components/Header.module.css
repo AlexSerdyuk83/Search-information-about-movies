@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: aquamarine;
+}
+
+.container h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.users {
+  margin-top: 7px;
+  font-size: 12px;
+}
